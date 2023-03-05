@@ -51,5 +51,13 @@
     - Ensure that the image is available in the region since **AMIs are a regional resource**
 
 - **Security Groups**
-  - Security Group for **_web-instance_**. Ports[80 and 443] are open.
-  - Security Group for **_rds-instance_**. Port[3306] is open inside the VPC.
+  - Security Group for **_web-instance_**. Ports [**80 and 443**] are open.
+  - Security Group for **_rds-instance_**. Port [**3306**] is open inside the VPC.
+
+# Usage
+
+- ### Initialize The Terraform with Modules.
+
+  $ terrafor init
+
+  $ terraform plan
