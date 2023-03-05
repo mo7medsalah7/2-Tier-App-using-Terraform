@@ -60,4 +60,13 @@
 
   `$ terraform init`
 
+- ### Dry-Run.
+
   `$ terraform plan`
+
+- ### Apply the changes and start provision infrastructure
+
+  `$ terraform apply`
+
+- ### Delete infrastructure
+  `$ terraform destroy`
