@@ -4,6 +4,8 @@
 
 # Diagram.
 
+![alt text](https://github.com/mo7medsalah7/2-Tier-App-using-Terraform/blob/main/Assignment_Diagram.png)
+
 # Description.
 
 - In My VPC, i Created Three (3) subnets.
