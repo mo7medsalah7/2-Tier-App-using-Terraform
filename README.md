@@ -31,7 +31,9 @@
 
 # Resources
 
-- in Terraform, Resources describe one or more infrastructure objects, such as virtual networks, compute instances, or higher-level components such as DNS records.
+- in Terraform, <u>**Resources**</u> describe one or more infrastructure objects, such as virtual networks, compute instances, or higher-level components such as DNS records.
+
+## Project Resources
 
 - **Subnets**
 
