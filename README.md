@@ -58,6 +58,5 @@
 
 - ### Initialize The Terraform with Modules.
 
-  $ terrafor init
-
-  $ terraform plan
+  `{ $ terraform init }`
+  `{ $ terraform plan }`
